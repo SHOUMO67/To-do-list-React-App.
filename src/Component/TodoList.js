@@ -183,8 +183,9 @@ const TodoList = () => {
           <p id="complete-all" onClick={handleCompleteAll}>
             Complete all tasks
           </p>
+          
           <p id="clear-all" onClick={handleClearCompleted}>
-            Delete comp tasks
+          <i class="fa-solid fa-trash" style={{color: "#f6f6f4"}}></i> &nbsp;Delete completed tasks
           </p>
         </div>
 
