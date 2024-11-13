@@ -22,3 +22,5 @@ The application uses the JSONPlaceholder API to fetch and update tasks. The API 
 
 
 Shoumodip Das
+![Screenshot_20241113_193341](https://github.com/user-attachments/assets/704d7f4f-ec95-412f-8564-ea982ccc6820)
+![Screenshot_20241113_193341](https://github.com/user-attachments/assets/6d52c4d8-7236-4698-a0ba-633fb9582c4e)
